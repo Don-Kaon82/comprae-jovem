@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:background="#F5F5F5"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Meus Endereços"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="#1565C0"
+        android:layout_marginBottom="12dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerEnderecos"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:layout_marginTop="8dp">
+
+        <EditText
+            android:id="@+id/edtEnderecoCep"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="CEP" />
+
+        <EditText
+            android:id="@+id/edtEnderecoLogradouro"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Rua / Logradouro" />
+
+        <EditText
+            android:id="@+id/edtEnderecoNumero"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Número" />
+
+        <EditText
+            android:id="@+id/edtEnderecoBairro"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Bairro" />
+
+        <EditText
+            android:id="@+id/edtEnderecoCidade"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Cidade" />
+
+        <EditText
+            android:id="@+id/edtEnderecoEstado"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:hint="Estado (UF)" />
+
+        <Button
+            android:id="@+id/btnAdicionarEndereco"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="8dp"
+            android:text="Adicionar Endereço"
+            android:backgroundTint="#1565C0" />
+    </LinearLayout>
+
+</LinearLayout>

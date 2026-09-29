@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_item_pedido.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\item_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_item_endereco.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\item_endereco.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\drawable_ic_placeholder.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\drawable\\ic_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.compraejovem.app-debug-34:/layout_activity_cadastro_produto.xml.flat",
+        "source": "com.example.compraejovem.app-main-36:/layout/activity_cadastro_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_meus_pedidos.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_meus_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_detalhe_produto.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_detalhe_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_item_carrinho.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\item_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_enderecos.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_enderecos.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_cadastro_usuario.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_cadastro_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_pagamento.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_pagamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\drawable_bg_input_modern.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\drawable\\bg_input_modern.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_cadastro_produto.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_cadastro_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_carrinho.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_carrinho.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\layout_item_produto.xml.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\layout\\item_produto.xml"
+    },
+    {
+        "merged": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\BRUNOJOSESOUZAALVES\\.gradle\\daemon\\8.10.2\\com.example.compraejovem.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]

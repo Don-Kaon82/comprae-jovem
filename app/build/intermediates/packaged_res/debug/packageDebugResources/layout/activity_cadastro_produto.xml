@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F4F6F9"
+    android:fitsSystemWindows="true">
+
+    <!-- Header Azul -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="#1976D2"
+        android:gravity="center_vertical"
+        android:paddingHorizontal="16dp"
+        android:text="📦  Cadastrar Novo Produto"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:elevation="6dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <!-- Card/Preview da Foto -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="16dp"
+                app:cardElevation="3dp"
+                android:layout_marginBottom="12dp">
+
+                <ImageView
+                    android:id="@+id/imgPreviewCadastro"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:background="#E0E0E0"
+                    android:src="@drawable/ic_placeholder"
+                    android:contentDescription="Preview da foto do produto" />
+            </androidx.cardview.widget.CardView>
+
+            <!-- CAMPO: Link/URL da Imagem da Web (Para aparecer para TODOS) -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🌐 Link da Foto na Internet (Para todos verem)"
+                android:textStyle="bold"
+                android:textColor="#1976D2"
+                android:textSize="13sp" />
+            <EditText
+                android:id="@+id/edtUrlFoto"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="4dp"
+                android:hint="Cole o link da imagem (https://...)"
+                android:background="@drawable/bg_input_modern"
+                android:paddingHorizontal="14dp"
+                android:textSize="13sp"
+                android:inputType="textUri"
+                android:layout_marginBottom="10dp"
+                android:elevation="1dp" />
+
+            <!-- OU Botão Selecionar Foto da Galeria -->
+            <Button
+                android:id="@+id/btnSelecionarFoto"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="📷  ou Escolher Foto da Galeria Local"
+                android:textAllCaps="false"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#546E7A"
+                app:cornerRadius="10dp"
+                android:layout_marginBottom="20dp" />
+
+            <!-- Nome do Produto -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Nome do Produto"
+                android:textStyle="bold"
+                android:textColor="#455A64"
+                android:textSize="13sp" />
+            <EditText
+                android:id="@+id/edtNovoNome"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="4dp"
+                android:hint="Ex: Apostila de Física V1"
+                android:background="@drawable/bg_input_modern"
+                android:paddingHorizontal="14dp"
+                android:textSize="14sp"
+                android:layout_marginBottom="14dp"
+                android:elevation="1dp" />
+
+            <!-- Professor Vendedor -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Professor Vendedor"
+                android:textStyle="bold"
+                android:textColor="#455A64"
+                android:textSize="13sp" />
+            <EditText
+                android:id="@+id/edtNovoProfessor"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="4dp"
+                android:hint="Ex: Prof. Roberto Silva"
+                android:background="@drawable/bg_input_modern"
+                android:paddingHorizontal="14dp"
+                android:textSize="14sp"
+                android:layout_marginBottom="14dp"
+                android:elevation="1dp" />
+
+            <!-- Preço -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Preço (R$)"
+                android:textStyle="bold"
+                android:textColor="#455A64"
+                android:textSize="13sp" />
+            <EditText
+                android:id="@+id/edtNovoPreco"
+                android:layout_width="match_parent"
+                android:layout_height="52dp"
+                android:layout_marginTop="4dp"
+                android:hint="Ex: 49.90"
+                android:inputType="numberDecimal"
+                android:background="@drawable/bg_input_modern"
+                android:paddingHorizontal="14dp"
+                android:textSize="14sp"
+                android:layout_marginBottom="14dp"
+                android:elevation="1dp" />
+
+            <!-- Descrição -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Descrição do Produto"
+                android:textStyle="bold"
+                android:textColor="#455A64"
+                android:textSize="13sp" />
+            <EditText
+                android:id="@+id/edtNovaDescricao"
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:layout_marginTop="4dp"
+                android:hint="Descreva o conteúdo do item..."
+                android:gravity="top|start"
+                android:background="@drawable/bg_input_modern"
+                android:padding="14dp"
+                android:textSize="14sp"
+                android:inputType="textMultiLine"
+                android:layout_marginBottom="24dp"
+                android:elevation="1dp" />
+
+            <!-- Botão Publicar -->
+            <Button
+                android:id="@+id/btnSalvarProduto"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:text="💾  Salvar e Publicar Produto"
+                android:textAllCaps="false"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#2E7D32"
+                app:cornerRadius="12dp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
